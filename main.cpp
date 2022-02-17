@@ -1,7 +1,7 @@
 //Bowling Teri Homicile
 //#include <cstdlib>
 #include <iostream>                                                             //delete unnecessary libraries
-
+ 
 using namespace std;
 
 int main()
